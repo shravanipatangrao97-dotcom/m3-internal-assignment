@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Manim temporary files and render cache
+media/
+.manim/
+partial_movie_files/
+Tex/
+texts/
+
+# Temporary video assembly files
+*.tmp.mp4
+output/scene_*.mp4
+output/concat_list.txt
+
+# OS and Editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Antigravity internal files if any
+.gemini/

@@ -1,0 +1,5 @@
+manim>=0.18.0
+reportlab>=4.0.0
+numpy>=1.26.0
+pycairo>=1.25.0
+ManimPango>=0.7.0
